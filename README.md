@@ -1,7 +1,3 @@
-Absolutely. Based on your `DatabaseSetup` Java class, this looks like a **Java + JDBC + SQLite practice project** focused on creating tables, inserting data, and querying purchases.
-
-Here is a clean README you can place directly in your project as `README.md`:
-
 # Java JDBC Database Practice
 
 A small Java practice project for learning how to connect a Java application to a SQLite database using **JDBC**, create database tables, insert records, and retrieve data usi  ng SQL queries.
@@ -22,7 +18,7 @@ The project is intentionally designed as a practice exercise, with several `TODO
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * **Java**
 * **JDBC (Java Database Connectivity)**
@@ -76,7 +72,7 @@ Responsible for:
 
 ---
 
-# 🗄️ Database Design
+# Database Design
 
 The practice project uses three main entities:
 
